@@ -3,13 +3,33 @@ layout: page
 title: About
 permalink: /about/
 ---
+# About
 
-Some information about you!
+Hi! I am a first-year PhD student studying Information Science at the University of Colorado in Boulder. I am a&nbsp;researcher&nbsp;with the&nbsp;[Creative Communities Lab](https://www.creativecommunities.group/), led by Dr.&nbsp;[Ricarose Roque](http://ricarose.com/). We&nbsp;focus on creative,&nbsp;personally meaningful, and playful&nbsp;learning with technology in order to increase&nbsp;tech literacy for families and kids. Please visit my&nbsp;[projects page](https://jtruppert.github.io/blog/projects)&nbsp;to view an abbreviated&nbsp;list of my&nbsp;work.&nbsp;I graduated with a B.S. in Management Information Systems from the University of Alabama in 2018, and my&nbsp;hometown is New Orleans, Louisiana.
 
-### More Information
+### Research Interests&nbsp;
 
-A place to include any other types of information that you'd like to include about yourself.
+*   
+    
+    Increasing computational literacy
+    
+    
+*   
+    
+    Creative learning
+    
+    
+*   
+    
+    Youth activism
+    
+    
+*   
+    
+    Digital privacy rights
+    
+    
 
-### Contact me
+### Email me at&nbsp;[janet.ruppert@colorado.edu](mailto:janet.ruppert@colorado.edu)
 
-[email@domain.com](mailto:email@domain.com)
+[Connect](https://jtruppert.github.io/blog/contact)&nbsp;with me!
